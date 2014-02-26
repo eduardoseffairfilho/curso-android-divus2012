@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Curso 05072012</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Curso 05072012</string>
+    <string name="checkBox_receber_email">Deseja receber emails?</string>
+
+</resources>
