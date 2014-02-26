@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Curso 05072012-MapaGoogle</string>
+    <string name="hello_world">Google Mapas!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Curso 05072012-MapaGoogle</string>
+
+</resources>

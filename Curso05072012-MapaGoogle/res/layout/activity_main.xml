@@ -1,0 +1,22 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/hello_world"/>
+    
+    <com.google.android.maps.MapView
+        android:id="@+id/mapa"
+        android:clickable="true"
+		android:layout_width="fill_parent"
+		android:layout_height="fill_parent"
+		android:apiKey="0agXHV5GmAiMrOvgObqYE6bUiWtgWunlDaj5mHg"
+		android:focusable="true"
+		android:scrollbars="horizontal"
+		android:scrollbarSize="50dp"
+		/>
+
+</LinearLayout>
