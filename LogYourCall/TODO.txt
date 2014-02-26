@@ -1,0 +1,8 @@
+1. A aplicacao deve abrir o DIALER.
+2. O usuario irá discar o telefone.
+3. Quando o usuário aproximar o telefone do ouvido, a aplicação começará a gravar a ligação.
+4. A gravação só finalizará quando a chamada terminar. (Nao pode pode parar de gravar se o telefone se afastar do ouvido).
+
+Obs: Verificar a possibilidade de ler os contatos para efetuar a discagem.
+
+* Imagem do icone foi retirada do endereço: http://villapampilhosahotel.com/sites/default/files/phone_icon.png

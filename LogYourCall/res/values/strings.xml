@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">Log Your Call</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="bem_vindo">Informe o número de telefone</string>
+    <string name="gravar_som_start">Discar e Gravar</string>
+    <string name="gravar_som_stop">Parar gravação</string>
+
+</resources>
