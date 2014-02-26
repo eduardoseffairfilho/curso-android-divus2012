@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">ExemploDuasTelas</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="msg_tela2">Tela 2 carregada com sucesso!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_hello_world">Exemplo Duas Telas</string>
+    <string name="msg_next">Próximo</string>
+    <string name="msg_back">Voltar</string>
+    <string name="title_activity_tela2">Tela2Activity</string>
+
+</resources>
