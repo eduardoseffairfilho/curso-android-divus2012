@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">Exemplo Aplicacao Ligacao</string>
+    <string name="hello_world">Telefonar!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Exemplo Aplicacao Ligacao</string>
+
+</resources>
