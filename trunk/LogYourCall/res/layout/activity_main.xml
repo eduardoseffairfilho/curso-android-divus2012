@@ -1,0 +1,44 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/etNumero"
+        android:layout_alignParentLeft="true"
+        android:layout_toLeftOf="@+id/btGravarSomStart"
+        android:padding="@dimen/padding_medium"
+        android:text="@string/bem_vindo"
+        android:textSize="14dp"
+        tools:context=".MainActivity" />
+
+    <Button
+        android:id="@+id/btGravarSomStart"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/gravar_som_start" />
+
+    <Button
+        android:id="@+id/btBGravarSomStop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/btGravarSomStart"
+        android:text="@string/gravar_som_stop" />
+
+    <EditText
+        android:id="@+id/etNumero"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btBGravarSomStop"
+        android:layout_alignBottom="@+id/btBGravarSomStop"
+        android:layout_toLeftOf="@+id/btBGravarSomStop"
+        android:ems="10"
+        android:inputType="phone" />
+
+</RelativeLayout>
